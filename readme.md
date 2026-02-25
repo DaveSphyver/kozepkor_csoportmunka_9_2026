@@ -36,19 +36,19 @@ A szövegek legyenek rövidek, lényegre törők, saját magad fogalmazd meg, eg
 - Van-e különbség a hétköznap és az ünnep között?
 - Mivel töltöm a szabadidőmet?
 
-### 4. Feladataim
+### 4. Feladataim: Veszprémi Zalán
 
 - Milyen munkát végzek?
 - Kinek tartozom engedelmességgel?
 - Ki függ tőlem?
 
-### 5. Ünnepek
+### 5. Ünnepek: Veszprémi Zalán
 
 - Milyen ünnepekre készülünk?
 - Hogyan zajlik egy ünnep?
 - Miért fontos számunkra?
 
-### 6. Kötelezettségek és félelmek
+### 6. Kötelezettségek és félelmek: Veszprémi Zalán
 
 - Milyen adókat, szolgáltatásokat kell teljesítenem?
 - Mitől félek? (háború, éhínség, járvány, büntetés stb.)
