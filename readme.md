@@ -18,19 +18,19 @@ A szövegeket első szám első személyben írjátok meg, mintha naplót vezetn
 
 A szövegek legyenek rövidek, lényegre törők, saját magad fogalmazd meg, egyes szám első személyben! Forrásként használd a tankönyvedet!
 
-### 1. Jellemző öltözködés
+### 1. Jellemző öltözködés-Gyozod
 
 - Mit viselek?
 - Miből készül a ruhám?
 - Mit árul el rólam a viseletem?
 
-###  2. Környezet
+###  2. Környezet-Gyozod
 
 - Milyen házban élek?
 - Van udvarom? Földem? Műhelyem? Váram?
 - Hogyan néz ki a település (falu, város, birtok, kolostor)?
 
-### 3. Életmód
+### 3. Életmód-Gyozod
 
 - Hogyan telik egy hétköznapom?
 - Van-e különbség a hétköznap és az ünnep között?
