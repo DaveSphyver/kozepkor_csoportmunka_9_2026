@@ -1,0 +1,6 @@
+immunitás: Mentesség valami alol. Az uralkodó adta.
+privilégium: Kiváltság valami alol. Ugyan ugy az uralkodó adta.
+feudalizmus:A rendszer alapja a föld volt, ezért ezt a berendezkedést feudalizmusnak nevezzük.ű
+oratores: Jelentése - "Imádkozó". Az egyházi rend tagjai, ők lelki és szellemi védelmet nyújtottak.
+bellatores: Jelentése - "Hadakozó". A nemesség és a lovagság tagjai, feladatuk a társadalom védelme.
+laboratores: Jelentése - "Dolgozó". A jobbágyok, parasztok tartoztak ide. Ők munkájukkal tartották a rendet.
