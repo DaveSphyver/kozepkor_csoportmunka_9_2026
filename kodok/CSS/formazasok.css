@@ -6,6 +6,8 @@ main {
     max-width: 800px;
     margin: auto;
     padding: 10px;
+    border: 10px solid white;
+    border-radius: 0.5%;
 }
 body {
     background-color: #bcbca0;
