@@ -1,7 +1,13 @@
+
 .kontener{
     display: grid;
     grid-template-columns: 50% 50%;
 }
-.kep{
-    margin: 30px;
+@media screen and (max-width: 600px) {
+    .main{
+        grid-template-columns: 1fr; 
+    }
+}
+.szoveg{
+    padding: 30px;
 }
