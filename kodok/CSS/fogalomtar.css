@@ -1,0 +1,15 @@
+.ossz{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.fogalmak {
+    border: 3px solid #46462c;
+    margin: 5px;
+}
+p {
+    text-align: center;
+    font-style: italic;
+}
+img{
+    width: 70%;
+}
