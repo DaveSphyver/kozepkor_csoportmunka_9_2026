@@ -18,7 +18,7 @@
     font-style: italic;
 }
 @media screen and (max-width: 765px) {
-    .article{
+    .tarolo{
         grid-template-columns: 1fr; 
     }
 }
