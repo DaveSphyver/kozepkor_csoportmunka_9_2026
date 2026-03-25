@@ -13,3 +13,8 @@ p {
 img{
     width: 70%;
 }
+@media screen and (max-width: 765px) {
+    .article{
+        grid-template-columns: 1fr; 
+    }
+}
