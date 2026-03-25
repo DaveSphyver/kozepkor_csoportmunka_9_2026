@@ -17,3 +17,8 @@
     border: 2px solid #979776;
     font-style: italic;
 }
+@media screen and (max-width: 765px) {
+    .main{
+        grid-template-columns: 1fr; 
+    }
+}
