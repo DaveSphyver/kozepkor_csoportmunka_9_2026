@@ -14,4 +14,6 @@
 }
 .esemeny {
     font-weight: bold;
+    border: 2px solid #979776;
+    font-style: italic;
 }
