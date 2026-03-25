@@ -21,6 +21,7 @@ h1 {
   text-align: center;
   letter-spacing: 5px;
   font-size: 35px;
+  font-family: "New Rocker", system-ui;
 }
 
 h2 {
@@ -40,6 +41,7 @@ p {
 header {
   background-color: #a9a986;
   border: 5px solid #6e6e44;
+  font-family: "New Rocker", system-ui;
 }
 
 header img {
