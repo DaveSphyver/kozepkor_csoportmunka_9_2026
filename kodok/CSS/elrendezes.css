@@ -1,18 +1,17 @@
-.kontener{
-    display: grid;
-    grid-template-columns: 50% 50%;
+.kontener {
+  display: grid;
+  grid-template-columns: 50% 50%;
 }
 
-.szoveg{
-    padding: 30px;
+.szoveg {
+  padding: 30px;
 }
-.kep{
-    padding: 30px;
+.kep {
+  padding: 30px;
 }
-
 
 @media screen and (max-width: 765px) {
-    .kontener{
-        grid-template-columns: 1fr; 
-    }
+  .kontener {
+    grid-template-columns: 1fr;
+  }
 }

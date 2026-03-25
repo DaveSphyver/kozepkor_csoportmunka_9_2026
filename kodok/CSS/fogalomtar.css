@@ -1,24 +1,24 @@
-.ossz{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+.ossz {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 .fogalmak {
-    border: 3px solid #46462c;
-    margin: 5px;
+  border: 3px solid #46462c;
+  margin: 5px;
 }
 p {
-    text-align: center;
-    font-style: italic;
+  text-align: center;
+  font-style: italic;
 }
-img{
-    padding-top: 15px;
-    width: 70%;
+img {
+  padding-top: 15px;
+  width: 70%;
 }
 @media screen and (max-width: 765px) {
-    .ossz{
-        grid-template-columns: 1fr; 
-    }
+  .ossz {
+    grid-template-columns: 1fr;
+  }
 }
-.article{
-    margin: auto;
+.article {
+  margin: auto;
 }
