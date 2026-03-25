@@ -18,7 +18,7 @@
     font-style: italic;
 }
 @media screen and (max-width: 765px) {
-    .main{
+    .article{
         grid-template-columns: 1fr; 
     }
 }

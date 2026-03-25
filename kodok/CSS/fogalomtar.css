@@ -15,7 +15,7 @@ img{
     width: 70%;
 }
 @media screen and (max-width: 765px) {
-    .article{
+    .ossz{
         grid-template-columns: 1fr; 
     }
 }
