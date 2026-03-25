@@ -1,7 +1,7 @@
-.kontener{
-    display: grid;
-    grid-template-columns: 50% 50%;
+.kontener {
+  display: grid;
+  grid-template-columns: 50% 50%;
 }
-.kep{
-    margin: 30px;
+.kep {
+  margin: 30px;
 }
