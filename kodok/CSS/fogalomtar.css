@@ -11,5 +11,6 @@ p {
     font-style: italic;
 }
 img{
+    padding-top: 15px;
     width: 70%;
 }
