@@ -65,3 +65,11 @@ ul {
   font-weight: bold;
   background-color: #d0d0b0;
 }
+@media screen and (max-width: 765px) {
+  .ossz {
+    grid-template-columns: 1fr;
+  }
+main {
+  width: 100%;
+}
+}

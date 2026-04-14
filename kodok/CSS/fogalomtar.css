@@ -14,11 +14,11 @@ img {
   padding-top: 15px;
   width: 70%;
 }
+.article {
+  margin: auto;
+}
 @media screen and (max-width: 765px) {
   .ossz {
     grid-template-columns: 1fr;
   }
-}
-.article {
-  margin: auto;
 }
